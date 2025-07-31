@@ -28,7 +28,7 @@ time, sleep, practice, social media use, and class attendance.
 - Final Accuracy: `90%`
 - Loss curve:
 
-![loss_curve.png](loss_curve.png)
+![loss_curve.png](Loss_curve.png)
 
 ---
 
